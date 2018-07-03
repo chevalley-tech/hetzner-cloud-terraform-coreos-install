@@ -1,6 +1,7 @@
 based on https://gist.github.com/thetechnick/12b33e4edfc96e4ccc9800afef2be7c5
+and https://vadosware.io/post/yet-another-cluster-reinstall-back-to-container-linux/
 
-`export TF_VAR_hcloud_token=<token>`
+Update public key in `ignition.json`
 
 ```sh
 # fetch the required modules
